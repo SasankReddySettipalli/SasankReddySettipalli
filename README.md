@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasankreddysettipalli" alt="sasankreddysettipalli" /></a> </p>
 
-- 🔭 I’m worked on a project **Deep enabled cardiac abnormality detection**
+- 🔭 I’m worked on a project **Deep Learning Enabled Cardiac Abnormality Detection**
 
-- 🌱 I’m currently learning **Hibernate, Servlets**
+- 🌱 I’m currently learning **Springa and SpringBoot**
 
 - 📈 I'm looking to work on **Front-End**
 
