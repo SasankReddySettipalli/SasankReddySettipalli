@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring and SpringBoot**
 
-- 📈 I'm looking to work on **Front-End**
+- 📈 I'm looking to work on **Front-End / FullStack**
 
 - 💬 Ask me about **Java, Oracle, Html, CSS, JavaScript, J2EE**
 
