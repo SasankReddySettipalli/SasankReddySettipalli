@@ -9,7 +9,7 @@
 
 - 🔭 I’m worked on a project **Deep Learning Enabled Cardiac Abnormality Detection**
 
-- 🌱 I’m currently learning **Springa and SpringBoot**
+- 🌱 I’m currently learning **Spring and SpringBoot**
 
 - 📈 I'm looking to work on **Front-End**
 
